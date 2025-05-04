@@ -54,12 +54,8 @@ A lightweight, full-stack note-taking application built with **Next.js**, **Type
 
 ## 🛠️ Getting Started
 
-bash
-
-CopyEdit
-
-`# Install dependencies
-npm install
+Install dependencies
+`npm install`
 
 ### Start development server
 
@@ -69,24 +65,16 @@ npm run dev`
 
 ## 🧪 Run Tests
 
-bash
-
-CopyEdit
-
-`# Run unit and component tests
-npm run test
+Run unit and component tests
+`npm run test`
 
 ### Run end-to-end tests
 
-npm run test:e2e`
+`npm run test:e2e`
 
 * * * * *
 
 ### 📚 Run Storybook
-
-bash
-
-CopyEdit
 
 `npm run storybook`
 
